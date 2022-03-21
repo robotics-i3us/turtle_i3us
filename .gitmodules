@@ -1,0 +1,9 @@
+[submodule "rplidar_ros"]
+	path = rplidar_ros
+	url = https://github.com/slamtec/rplidar_ros.git
+[submodule "sick_tim"]
+	path = sick_tim
+	url = https://github.com/uos/sick_tim
+[submodule "turtlebot"]
+	path = turtlebot
+	url = https://github.com/RobotnikAutomation/turtlebot
