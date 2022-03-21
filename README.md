@@ -18,7 +18,7 @@ sudo apt install ros-kinetic-realsense2-camera
 
 ## Instalación
 
-## Preparación del espacio de trabajo
+### Preparación del espacio de trabajo
 
 Crear un *workspace* de ROS vacío siguiendo los pasos en: http://wiki.ros.org/catkin/Tutorials/create_a_workspace
 
@@ -29,4 +29,8 @@ Crear un *workspace* de ROS vacío siguiendo los pasos en: http://wiki.ros.org/c
   + cd src/turtle_i3us
   + git submodule init
   + git submodule update
+
+## Ejecución
+
+
 
