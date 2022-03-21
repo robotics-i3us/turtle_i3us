@@ -27,9 +27,11 @@ Crear un *workspace* de ROS vacío siguiendo los pasos en: http://wiki.ros.org/c
 - Clonar este metapaquete dentro de la subcarpeta *src* del espacio de trabajo. 
 - Instalar los módulos
   + cd src/turtle_i3us
-  + git submodule init
-  + git submodule update
-
+  + Instalación de módulos:
+  ```
+  git submodule init
+  git submodule update
+  ```
 ## Ejecución
 
 ```
