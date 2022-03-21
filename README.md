@@ -32,5 +32,8 @@ Crear un *workspace* de ROS vacío siguiendo los pasos en: http://wiki.ros.org/c
 
 ## Ejecución
 
+```
+roslaunch turtle_i3us_apps turtle_i3us.launch
+```
 
 
